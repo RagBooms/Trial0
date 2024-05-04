@@ -59,6 +59,7 @@ void main()
         }
         }
     }
+        //This is my typing game project....
     else 
     printf("Try Again...");
     goto cont;
